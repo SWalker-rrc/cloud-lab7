@@ -1,0 +1,11 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, sans-serif; color: #172554; background: #f8fafc; }
+main { max-width: 1100px; margin: auto; padding: 1.5rem; }
+button { padding: .7rem 1rem; cursor: pointer; }
+button:disabled { cursor: wait; }
+:focus-visible { outline: 3px solid #4338ca; outline-offset: 3px; }
+#gallery { list-style: none; padding: 0; display: grid; gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); }
+#gallery li { border: 1px solid #cbd5e1; border-radius: .5rem; padding: 1rem; background: white; }
+img { display: block; width: 100%; height: auto; border-radius: .4rem; }
+[hidden] { display: none !important; }
