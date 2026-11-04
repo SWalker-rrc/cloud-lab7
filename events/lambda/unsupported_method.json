@@ -1,0 +1,7 @@
+{
+  "httpMethod": "POST",
+  "resource": "/events",
+  "path": "/events",
+  "pathParameters": null,
+  "body": "{}"
+}

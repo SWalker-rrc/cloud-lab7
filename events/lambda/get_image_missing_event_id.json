@@ -1,0 +1,5 @@
+{
+  "httpMethod": "GET",
+  "resource": "/events/{eventId}/image",
+  "pathParameters": null
+}

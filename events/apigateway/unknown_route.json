@@ -1,0 +1,6 @@
+{
+  "method": "GET",
+  "path": "/unknown",
+  "expectedStatus": 403,
+  "expectedBody": {"message": "Missing Authentication Token"}
+}

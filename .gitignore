@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+gallery-work/*.env
+gallery-work/*.zip
+gallery-work/*.png

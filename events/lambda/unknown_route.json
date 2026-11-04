@@ -1,0 +1,6 @@
+{
+  "httpMethod": "GET",
+  "resource": "/unknown",
+  "path": "/unknown",
+  "pathParameters": null
+}
