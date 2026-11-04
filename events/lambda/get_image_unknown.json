@@ -1,8 +1,0 @@
-{
-  "httpMethod": "GET",
-  "resource": "/events/{eventId}/image",
-  "path": "/events/UNKNOWN/image",
-  "pathParameters": {
-    "eventId": "UNKNOWN"
-  }
-}

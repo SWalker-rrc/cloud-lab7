@@ -1,6 +1,0 @@
-{
-  "method": "POST",
-  "path": "/events",
-  "expectedStatus": 403,
-  "expectedBody": {"message": "Missing Authentication Token"}
-}

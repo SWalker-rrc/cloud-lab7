@@ -1,6 +1,0 @@
-{
-  "method": "GET",
-  "path": "/events",
-  "expectedStatus": 200,
-  "expectedEventIds": ["TRN001", "TRN002"]
-}

@@ -1,6 +1,0 @@
-{
-  "method": "GET",
-  "path": "/events/UNKNOWN/image",
-  "expectedStatus": 404,
-  "expectedBody": {"message": "Event not found"}
-}

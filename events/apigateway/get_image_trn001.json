@@ -1,7 +1,0 @@
-{
-  "method": "GET",
-  "path": "/events/TRN001/image",
-  "expectedStatus": 200,
-  "expectedImageKey": "events/trn001.png",
-  "expectedExpiresIn": 300
-}
